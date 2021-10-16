@@ -4,6 +4,10 @@
 
 - Pythonを用いた仮想DOMの実装
 
+## 伝えたかったこと
+
+- `__new__` を実装することで、クラスを用いる `with` ステートメントでの挙動をハックできること
+
 ## スライド
 
 - [SpeakerDeck](https://speakerdeck.com/urushiyama/pythondetukuruxuan-yan-de-uiratupahuremuwaku-ji-cun-guihuremuwakufalsediao-cha-wotian-ete)
