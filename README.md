@@ -20,3 +20,5 @@
         - deui-examples/[flask](https://github.com/urushiyama/deui-examples-flask) で利用
     - deui-examples/[flask](https://github.com/urushiyama/deui-examples-flask)
         - HTMLラッパーを用いたFlaskアプリの実行例
+
+- [アスペクト指向な `with statement` によるコンテクスト束縛](https://gist.github.com/urushiyama/c950f641e884c29ae9866dbadbf3dcc6)
